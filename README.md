@@ -8,15 +8,14 @@ This example shows how to use Anychart library with the PhoneGap framework.
 
 To use this sample you must have NodeJS, PhoneGap installed on your computer.
 
-To check your installations, run the following command in the command line:
+To check your installations, run the following commands in the command line:
 ```
 $ node -v
 v8.2.1
 $ phonegap -v
 6.5.2
 ```
-To install NodeJS, please, visit [NodeJS site](https://nodejs.org/)
-To install PhoneGap, please, see the [PhoneGap installation guide](http://docs.phonegap.com/getting-started/1-install-phonegap/cli/)
+To install NodeJS, please, visit [NodeJS site](https://nodejs.org/). To install PhoneGap, please, see the [PhoneGap installation guide](http://docs.phonegap.com/getting-started/1-install-phonegap/cli/)
 
 To start this example run commands listed below.
 
@@ -30,7 +29,7 @@ Navigate to the repository folder:
 $ cd phonegap-template
 ```
 
-Run application
+Run application:
 ```
 $ phonegap serve
 
