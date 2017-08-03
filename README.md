@@ -37,7 +37,7 @@ $ phonegap serve
 
 Open browser at http://localhost:3000/
 
-To build the application for your mobile device, please, visit [PhoneGap Build](https://build.phonegap.com/)
+To build the application for your mobile device, please, visit [PhoneGap Build](https://build.phonegap.com/).
 
 ## Workspace
 Your workspace should look like:
