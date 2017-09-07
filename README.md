@@ -42,7 +42,7 @@ To build the application for your mobile device, please, visit [PhoneGap Build](
 ## Workspace
 Your workspace should look like:
 ```
-ruby-sinatra-mysql-template/
+phonegap-template/
     hooks/
     platforms/
     plugins/
