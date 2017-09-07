@@ -61,7 +61,7 @@ phonegap-template/
 ```
 
 ## Technologies
-Language - [Javascript](https://www.ruby-lang.org)<br />
+Language - [Javascript](https://www.javascript.com/)<br />
 Framework - [PhoneGap](https://phonegap.com/)<br />
 
 ## Further Learning
